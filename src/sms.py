@@ -2,9 +2,6 @@
 # init them and create a fun called send sms athat has a class props as parameters
 
 
-
-
-
 class SMS:
 
     def message():
