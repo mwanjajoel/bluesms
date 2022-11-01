@@ -1,9 +1,0 @@
-LICENSE
-MANIFEST.in
-README.md
-pyproject.toml
-setup.py
-src/bluesms.egg-info/PKG-INFO
-src/bluesms.egg-info/SOURCES.txt
-src/bluesms.egg-info/dependency_links.txt
-src/bluesms.egg-info/top_level.txt
