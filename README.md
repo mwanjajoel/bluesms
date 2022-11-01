@@ -1,6 +1,6 @@
 
 # BlueSMS SDK
-This is a python package for the BlueSMS API. It can be added to your current python-based application so as to interact with the BlueSMS Uganda API in a much simpler way.
+This is a python SDK for the BlueSMS API. It can be added to your current python-based application so as to interact with the BlueSMS Uganda API in a much simpler way.
 
 ## Why we created the BlueSMS SDK
 We began using BlueSMS in many of our applications and were simply tired of writing code to send SMSes in every Python project we created. So we decided to create a python package that would make it easier for us to send SMSes in our projects. 
@@ -21,7 +21,6 @@ Clone the repository by running the following command in your terminal:
 git clone https://github.com/mwanjajoel/bluesms.git
 ```
 
-```
 We use Pipenv to manage our dependencies. To install pipenv, run the following command:
 ```
 pip install pipenv
@@ -32,7 +31,6 @@ Activate the virtual environment by running the following command in your termin
 pipenv shell
 ```
 
-```
 Install the dependencies by running the following command in your terminal:
 ```
 pipenv install
