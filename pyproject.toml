@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bluesms"
-version = "0.1.2"
+version = "1.1.2"
 description = "A Python library for sending SMS messages via BlueSMS"
 readme = "README.md"
 authors = [

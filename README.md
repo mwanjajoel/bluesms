@@ -12,7 +12,7 @@ pip install bluesms
 
 ## Usage
 ```python
-from bluesms import SMS 
+from bluesms.sms import SMS 
 
 # initialise the SMS class
 sms = SMS()

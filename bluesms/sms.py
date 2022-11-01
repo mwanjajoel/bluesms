@@ -12,11 +12,6 @@ class SMS():
 
         api_url = "http://bluesmsuganda.com/api-sub.php?user={}&password={}&reciever={}&sender={}&message={}&,100".format(user, password, reciever, sender, message)
 
-        # check if the user is not empty
-        if self.user == "":
-            raise Exception("Please provide the username")
-
         # make a get request to the API
-        response = requests.get(api_url)
-        return response
+        return requests.get(api_url)
 
