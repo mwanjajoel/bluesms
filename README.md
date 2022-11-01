@@ -65,7 +65,7 @@ BlueSMS SDK was designed and built by Mwanja Joel. It is licensed under the MIT 
 
 Please see the [AUTHORS](AUTHORS) file for the full list of contributors. 
 
-If you find BlueSMS SDk useful and want to reach out, find me on Twitter: [@mrjoelmwanja](https://twitter.com/mrjoelmwanja).
+If you find BlueSMS SDK useful and want to reach out, find me on Twitter: [@mrjoelmwanja](https://twitter.com/mrjoelmwanja).
 
 
 
