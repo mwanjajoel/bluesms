@@ -2,4 +2,4 @@
 
 - Mwanja Joel [(@mrmwanjajoel)](https://twitter.com/mrjoelmwanja)
 
-- Loyo Victor Moses [(@arthurnangai)](https://twitter.com/victorthereal2)
+- Loyo Victor Moses [(@VictorMoses)](https://twitter.com/victorthereal2)
