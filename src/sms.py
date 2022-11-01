@@ -1,7 +1,7 @@
 import requests
 
 class SMS(): 
-
+    
     # method to send the SMS 
     def send(self, user, password, reciever, sender, message):
         self.user = user
