@@ -6,12 +6,12 @@ This is a python SDK for the BlueSMS API. It can be added to your current python
 We began using BlueSMS in many of our applications and were simply tired of writing code to send SMSes in every Python project we created. So we decided to create a python package that would make it easier for us to send SMSes in our projects. 
 
 ## Installation
-```
+```bash
 pip install bluesms
 ``` 
 
 ## Usage
-```
+```python
 from bluesms import SMS 
 
 # initialise the SMS class
@@ -22,7 +22,7 @@ try:
     sending = sms.send(user="user@example.com", password="password", reciever="0777xxxxxx", sender="sender", message="message")
 
     print("The SMS sent", sending.text)
-    
+
 except Exception as e:
     print("Error sending SMS:", e)
 ```
