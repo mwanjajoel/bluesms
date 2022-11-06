@@ -19,5 +19,8 @@ classifiers = [
 ]
 keywords = ["sms", "bluesms", "python"]
 
+[tool.pytest.ini_options]
+python_files = "*_tests.py"
+
 [project.urls]
 Homepage = "https://github.com/mwanjajoel/bluesms"
