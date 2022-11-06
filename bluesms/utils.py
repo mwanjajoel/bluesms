@@ -1,7 +1,7 @@
 import re
 
 
-def validate_phone_number(phone_number) -> bool:
+def validate_phone_number(phone_number: str) -> bool:
     """
     Expects number to start with country code.
     For example +256703000000
