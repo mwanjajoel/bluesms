@@ -1,8 +1,12 @@
 import re
 
-# Validate phone numbers 
-def validate_phone_number(phone_number):
+
+def validate_phone_number(phone_number: str) -> bool:
+    """
+    Expects number to start with country code.
+    For example +256703000000
+    """
     try:
-        return re.match('^\+\d{1,3}\d{3,}$', phone_number)
+        return bool(re.match('^\+\d{1,3}\d{3,}$', phone_number))
     except ValueError:
         return False
